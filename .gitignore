@@ -208,3 +208,9 @@ __marimo__/
 
 # .DS_Store
 .DS_Store
+
+# TeX source files
+*.tex
+
+# .mpl-cache
+.mpl-cache/
