@@ -212,5 +212,8 @@ __marimo__/
 # TeX source files
 *.tex
 
+# outputs
+outputs/
+
 # .mpl-cache
 .mpl-cache/
