@@ -1,6 +1,6 @@
 # PROWL
 
-Materials for "**[PAC-Bayesian Reward-Certified Outcome Weighted Learning](https://arxiv.org/abs/2604.NNNNN)**".
+Materials for "**[PAC-Bayesian Reward-Certified Outcome Weighted Learning](https://arxiv.org/abs/2604.01946)**".
 
 ## What is This Repository?
 
@@ -292,7 +292,7 @@ Arguments for `experiments/run_elaia_real_data.py`:
 ```bibtex
 @article{ishikawa2026pac,
     author={Ishikawa, Yuya and Tamano, Shu},
-    journal={arXiv preprint arXiv:2604.NNNNN},
+    journal={arXiv preprint arXiv:2604.01946},
     title={{PAC-Bayesian} Reward-Certified Outcome Weighted Learning},
     year={2026},
 }
